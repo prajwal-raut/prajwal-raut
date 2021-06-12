@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prajwal-raut?tab=repositories](https://github.com/prajwal-raut?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/prajwal-raut?tab=repositories)
 
 - 📫 How to reach me **prajwalrautbca@gmail.com**
 
